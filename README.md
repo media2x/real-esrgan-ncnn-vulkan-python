@@ -1,3 +1,5 @@
+# CMakeList is tricky! To prevent failure of compilation, shall copy all the generated `spv.hex.h` files to `real-esrgan-ncnn-vulkan` submodule folder!
+
 # realesrgan ncnn Vulkan Python
 
 ![CI](https://github.com/media2x/realcugan-ncnn-vulkan-python/workflows/CI/badge.svg)
